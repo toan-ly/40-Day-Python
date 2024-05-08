@@ -1,1 +1,1 @@
-# 40-Day-Python
+# 40 Days Python
